@@ -428,18 +428,5 @@ For issues and questions:
 - **Feature Requests**: Submit via GitHub issues
 - **Security Concerns**: Contact nazmulislam45213@gmail.com
 
-## 📄 License
 
-This project is proprietary and confidential. All rights reserved.
 
-**© 2024 [Nazmul Islam]. Unauthorized copying, distribution, or use is strictly prohibited.**
-
----
-
-<div align="center">
-
-**Built with ❤️ by the HR Innovation Team**
-
-[Documentation](docs/) • [API Reference](docs/api/) • [Changelog](CHANGELOG.md)
-
-</div>
