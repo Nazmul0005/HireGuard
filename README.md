@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="mili.png" alt="Project Screenshot" width="800"/>
+  <img src="image.png" alt="Project Screenshot" width="800"/>
 </p>
 
 ## 📋 Overview
