@@ -6,7 +6,11 @@
 
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-ff9800)
 [![Docker](https://img.shields.io/badge/docker-ready-brightgreen.svg)](https://www.docker.com/)
+![LLM](https://img.shields.io/badge/LLM-Generative_AI-purple)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-blueviolet)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-blue)
 [![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)]()
 
 </div>
